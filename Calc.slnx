@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="App1/App1.vdproj" Type="Installer">
+    <Build />
+  </Project>
+  <Project Path="Calc/Calc.csproj" Id="870fbf42-8184-4abc-948f-fb975504e0ea" />
+</Solution>
